@@ -1,0 +1,1202 @@
+[
+ {
+  "item_id": "A000",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A001",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A002",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A003",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A004",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A005",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A006",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A007",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A008",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A009",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A010",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A011",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A012",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A013",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A014",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A015",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A016",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A017",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A018",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A019",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A020",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A021",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A022",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A023",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A024",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A025",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A026",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A027",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A028",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A029",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A030",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A031",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A032",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A033",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A034",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A035",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A036",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A037",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A038",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A039",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A040",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A041",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A042",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A043",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A044",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A045",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A046",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A047",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A048",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A049",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A050",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A051",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A052",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A053",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A054",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A055",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A056",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A057",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A058",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A059",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A060",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A061",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A062",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A063",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A064",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A065",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A066",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A067",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A068",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A069",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A070",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A071",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A072",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A073",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A074",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A075",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A076",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A077",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A078",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A079",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A080",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A081",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A082",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A083",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A084",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A085",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A086",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A087",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A088",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A089",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A090",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A091",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A092",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A093",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A094",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A095",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A096",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A097",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A098",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A099",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A100",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A101",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A102",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A103",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A104",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A105",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A106",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A107",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A108",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A109",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A110",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A111",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A112",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A113",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A114",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A115",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A116",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A117",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A118",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A119",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A120",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A121",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A122",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A123",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A124",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A125",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A126",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A127",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A128",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A129",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A130",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A131",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A132",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A133",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A134",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A135",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A136",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A137",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A138",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A139",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A140",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A141",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A142",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A143",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A144",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A145",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A146",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A147",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A148",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A149",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A150",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A151",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A152",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A153",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A154",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A155",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A156",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A157",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A158",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A159",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A160",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A161",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A162",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A163",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A164",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A165",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A166",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A167",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A168",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A169",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A170",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A171",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A172",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A173",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A174",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A175",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A176",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A177",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A178",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A179",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A180",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A181",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A182",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A183",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A184",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A185",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A186",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A187",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A188",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A189",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A190",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A191",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A192",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A193",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A194",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A195",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A196",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A197",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A198",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A199",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A200",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A201",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A202",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A203",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A204",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A205",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A206",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A207",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A208",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A209",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A210",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A211",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A212",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A213",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A214",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A215",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A216",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A217",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A218",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A219",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A220",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A221",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A222",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A223",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A224",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A225",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A226",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A227",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A228",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A229",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A230",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A231",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A232",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A233",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A234",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A235",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A236",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A237",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "A238",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "A239",
+  "fluency": 1,
+  "adequacy": 0
+ }
+]

@@ -1,0 +1,17 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 12518.64it/s]
+loopedit_L6_s1.0 sv loop 0.77 on 0.97 | en loop 0.00 on 1.00
+loopedit_L6_s3.0 sv loop 0.63 on 0.97 | en loop 0.00 on 1.00
+loopedit_L12_s1.0 sv loop 0.70 on 0.93 | en loop 0.13 on 1.00
+loopedit_L12_s3.0 sv loop 0.73 on 0.97 | en loop 0.13 on 1.00
+loopedit_L15_s1.0 sv loop 0.67 on 0.97 | en loop 0.07 on 1.00
+loopedit_L15_s3.0 sv loop 0.70 on 0.97 | en loop 0.00 on 1.00
+loopedit_L18_s1.0 sv loop 0.83 on 0.97 | en loop 0.07 on 1.00
+loopedit_L18_s3.0 sv loop 0.87 on 0.90 | en loop 0.33 on 1.00
+loopedit_L21_s1.0 sv loop 0.73 on 0.97 | en loop 0.00 on 1.00
+loopedit_L21_s3.0 sv loop 0.57 on 0.90 | en loop 0.07 on 1.00
+loopedit_L15+19_s1.0 sv loop 0.63 on 0.90 | en loop 0.13 on 1.00
+loopedit_L15+19_s3.0 sv loop 0.37 on 0.80 | en loop 0.00 on 1.00
+reppen_1.1 sv loop 0.23 on 0.90 | en loop 0.07 on 1.00
+reppen_1.2 sv loop 0.00 on 0.93 | en loop 0.07 on 1.00
+reppen_1.3 sv loop 0.00 on 0.93 | en loop 0.00 on 1.00
+selected loopedit_L21_s3.0 reppen_1.2

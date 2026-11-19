@@ -1,0 +1,7 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 49495.35it/s]
+steer_L6_b1.0 sv loop 0.67 on 0.90 | en loop 0.20 on 1.00
+steer_L6_b2.0 sv loop 0.77 on 0.83 | en loop 0.53 on 1.00
+steer_L12_b1.0 sv loop 0.60 on 0.97 | en loop 0.20 on 1.00
+steer_L12_b2.0 sv loop 0.60 on 0.90 | en loop 0.67 on 1.00
+steer_L18_b1.0 sv loop 0.53 on 0.97 | en loop 0.13 on 1.00
+steer_L18_b2.0 sv loop 0.53 on 0.93 | en loop 0.20 on 1.00

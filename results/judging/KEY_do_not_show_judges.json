@@ -1,0 +1,3904 @@
+{
+ "arms": {
+  "baseline": "baseline",
+  "reppen": "repetition_penalty_1.2",
+  "loop_edit": "loop_edit[loopedit_L15_s3.0]",
+  "random_edit": "random_edit_seed0",
+  "sv_system_prompt": "sv_system_prompt",
+  "steering": "steering[steer_L18_b1.0]",
+  "qwen_sampling": "qwen_recommended_sampling"
+ },
+ "key": {
+  "A000": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_019"
+  },
+  "A001": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_030"
+  },
+  "A002": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_022"
+  },
+  "A003": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_032"
+  },
+  "A004": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_004"
+  },
+  "A005": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_013"
+  },
+  "A006": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_024"
+  },
+  "A007": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_005"
+  },
+  "A008": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_037"
+  },
+  "A009": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_022"
+  },
+  "A010": {
+   "arm": "steering",
+   "prompt_id": "sv_test_003"
+  },
+  "A011": {
+   "arm": "steering",
+   "prompt_id": "sv_test_002"
+  },
+  "A012": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_017"
+  },
+  "A013": {
+   "arm": "steering",
+   "prompt_id": "sv_test_033"
+  },
+  "A014": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_026"
+  },
+  "A015": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_016"
+  },
+  "A016": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_009"
+  },
+  "A017": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_033"
+  },
+  "A018": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_005"
+  },
+  "A019": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_029"
+  },
+  "A020": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_008"
+  },
+  "A021": {
+   "arm": "steering",
+   "prompt_id": "sv_test_005"
+  },
+  "A022": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_026"
+  },
+  "A023": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_001"
+  },
+  "A024": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_039"
+  },
+  "A025": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_037"
+  },
+  "A026": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_001"
+  },
+  "A027": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_006"
+  },
+  "A028": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_002"
+  },
+  "A029": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_012"
+  },
+  "A030": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_037"
+  },
+  "A031": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_032"
+  },
+  "A032": {
+   "arm": "steering",
+   "prompt_id": "sv_test_026"
+  },
+  "A033": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_033"
+  },
+  "A034": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_004"
+  },
+  "A035": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_036"
+  },
+  "A036": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_039"
+  },
+  "A037": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_003"
+  },
+  "A038": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_023"
+  },
+  "A039": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_003"
+  },
+  "A040": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_026"
+  },
+  "A041": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_015"
+  },
+  "A042": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_005"
+  },
+  "A043": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_039"
+  },
+  "A044": {
+   "arm": "steering",
+   "prompt_id": "sv_test_039"
+  },
+  "A045": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_031"
+  },
+  "A046": {
+   "arm": "steering",
+   "prompt_id": "sv_test_000"
+  },
+  "A047": {
+   "arm": "steering",
+   "prompt_id": "sv_test_025"
+  },
+  "A048": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_032"
+  },
+  "A049": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_032"
+  },
+  "A050": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_020"
+  },
+  "A051": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_020"
+  },
+  "A052": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_028"
+  },
+  "A053": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_027"
+  },
+  "A054": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_038"
+  },
+  "A055": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_011"
+  },
+  "A056": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_028"
+  },
+  "A057": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_024"
+  },
+  "A058": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_004"
+  },
+  "A059": {
+   "arm": "steering",
+   "prompt_id": "sv_test_004"
+  },
+  "A060": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_003"
+  },
+  "A061": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_025"
+  },
+  "A062": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_036"
+  },
+  "A063": {
+   "arm": "steering",
+   "prompt_id": "sv_test_020"
+  },
+  "A064": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_013"
+  },
+  "A065": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_027"
+  },
+  "A066": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_025"
+  },
+  "A067": {
+   "arm": "steering",
+   "prompt_id": "sv_test_015"
+  },
+  "A068": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_030"
+  },
+  "A069": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_018"
+  },
+  "A070": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_006"
+  },
+  "A071": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_025"
+  },
+  "A072": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_010"
+  },
+  "A073": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_000"
+  },
+  "A074": {
+   "arm": "steering",
+   "prompt_id": "sv_test_027"
+  },
+  "A075": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_007"
+  },
+  "A076": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_028"
+  },
+  "A077": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_017"
+  },
+  "A078": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_034"
+  },
+  "A079": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_000"
+  },
+  "A080": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_035"
+  },
+  "A081": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_033"
+  },
+  "A082": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_015"
+  },
+  "A083": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_035"
+  },
+  "A084": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_004"
+  },
+  "A085": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_001"
+  },
+  "A086": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_019"
+  },
+  "A087": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_004"
+  },
+  "A088": {
+   "arm": "steering",
+   "prompt_id": "sv_test_030"
+  },
+  "A089": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_008"
+  },
+  "A090": {
+   "arm": "steering",
+   "prompt_id": "sv_test_024"
+  },
+  "A091": {
+   "arm": "steering",
+   "prompt_id": "sv_test_017"
+  },
+  "A092": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_020"
+  },
+  "A093": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_029"
+  },
+  "A094": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_025"
+  },
+  "A095": {
+   "arm": "steering",
+   "prompt_id": "sv_test_018"
+  },
+  "A096": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_003"
+  },
+  "A097": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_013"
+  },
+  "A098": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_010"
+  },
+  "A099": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_023"
+  },
+  "A100": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_024"
+  },
+  "A101": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_015"
+  },
+  "A102": {
+   "arm": "steering",
+   "prompt_id": "sv_test_032"
+  },
+  "A103": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_035"
+  },
+  "A104": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_030"
+  },
+  "A105": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_011"
+  },
+  "A106": {
+   "arm": "steering",
+   "prompt_id": "sv_test_012"
+  },
+  "A107": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_002"
+  },
+  "A108": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_025"
+  },
+  "A109": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_011"
+  },
+  "A110": {
+   "arm": "steering",
+   "prompt_id": "sv_test_023"
+  },
+  "A111": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_010"
+  },
+  "A112": {
+   "arm": "steering",
+   "prompt_id": "sv_test_013"
+  },
+  "A113": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_014"
+  },
+  "A114": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_013"
+  },
+  "A115": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_037"
+  },
+  "A116": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_008"
+  },
+  "A117": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_027"
+  },
+  "A118": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_007"
+  },
+  "A119": {
+   "arm": "steering",
+   "prompt_id": "sv_test_036"
+  },
+  "A120": {
+   "arm": "steering",
+   "prompt_id": "sv_test_028"
+  },
+  "A121": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_033"
+  },
+  "A122": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_021"
+  },
+  "A123": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_005"
+  },
+  "A124": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_019"
+  },
+  "A125": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_000"
+  },
+  "A126": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_002"
+  },
+  "A127": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_008"
+  },
+  "A128": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_018"
+  },
+  "A129": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_032"
+  },
+  "A130": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_037"
+  },
+  "A131": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_039"
+  },
+  "A132": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_019"
+  },
+  "A133": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_021"
+  },
+  "A134": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_001"
+  },
+  "A135": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_029"
+  },
+  "A136": {
+   "arm": "steering",
+   "prompt_id": "sv_test_019"
+  },
+  "A137": {
+   "arm": "steering",
+   "prompt_id": "sv_test_021"
+  },
+  "A138": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_009"
+  },
+  "A139": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_016"
+  },
+  "A140": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_009"
+  },
+  "A141": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_010"
+  },
+  "A142": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_012"
+  },
+  "A143": {
+   "arm": "steering",
+   "prompt_id": "sv_test_001"
+  },
+  "A144": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_019"
+  },
+  "A145": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_010"
+  },
+  "A146": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_031"
+  },
+  "A147": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_005"
+  },
+  "A148": {
+   "arm": "steering",
+   "prompt_id": "sv_test_038"
+  },
+  "A149": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_018"
+  },
+  "A150": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_002"
+  },
+  "A151": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_038"
+  },
+  "A152": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_011"
+  },
+  "A153": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_035"
+  },
+  "A154": {
+   "arm": "steering",
+   "prompt_id": "sv_test_034"
+  },
+  "A155": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_035"
+  },
+  "A156": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_033"
+  },
+  "A157": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_034"
+  },
+  "A158": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_007"
+  },
+  "A159": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_006"
+  },
+  "A160": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_014"
+  },
+  "A161": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_007"
+  },
+  "A162": {
+   "arm": "steering",
+   "prompt_id": "sv_test_007"
+  },
+  "A163": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_020"
+  },
+  "A164": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_022"
+  },
+  "A165": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_030"
+  },
+  "A166": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_023"
+  },
+  "A167": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_036"
+  },
+  "A168": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_012"
+  },
+  "A169": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_036"
+  },
+  "A170": {
+   "arm": "steering",
+   "prompt_id": "sv_test_006"
+  },
+  "A171": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_039"
+  },
+  "A172": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_000"
+  },
+  "A173": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_029"
+  },
+  "A174": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_016"
+  },
+  "A175": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_031"
+  },
+  "A176": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_007"
+  },
+  "A177": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_012"
+  },
+  "A178": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_038"
+  },
+  "A179": {
+   "arm": "steering",
+   "prompt_id": "sv_test_008"
+  },
+  "A180": {
+   "arm": "steering",
+   "prompt_id": "sv_test_014"
+  },
+  "A181": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_016"
+  },
+  "A182": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_020"
+  },
+  "A183": {
+   "arm": "steering",
+   "prompt_id": "sv_test_031"
+  },
+  "A184": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_015"
+  },
+  "A185": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_008"
+  },
+  "A186": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_003"
+  },
+  "A187": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_034"
+  },
+  "A188": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_028"
+  },
+  "A189": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_026"
+  },
+  "A190": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_006"
+  },
+  "A191": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_014"
+  },
+  "A192": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_023"
+  },
+  "A193": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_038"
+  },
+  "A194": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_026"
+  },
+  "A195": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_030"
+  },
+  "A196": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_018"
+  },
+  "A197": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_036"
+  },
+  "A198": {
+   "arm": "steering",
+   "prompt_id": "sv_test_022"
+  },
+  "A199": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_034"
+  },
+  "A200": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_034"
+  },
+  "A201": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_022"
+  },
+  "A202": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_011"
+  },
+  "A203": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_016"
+  },
+  "A204": {
+   "arm": "steering",
+   "prompt_id": "sv_test_035"
+  },
+  "A205": {
+   "arm": "steering",
+   "prompt_id": "sv_test_037"
+  },
+  "A206": {
+   "arm": "steering",
+   "prompt_id": "sv_test_009"
+  },
+  "A207": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_027"
+  },
+  "A208": {
+   "arm": "steering",
+   "prompt_id": "sv_test_016"
+  },
+  "A209": {
+   "arm": "steering",
+   "prompt_id": "sv_test_029"
+  },
+  "A210": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_000"
+  },
+  "A211": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_001"
+  },
+  "A212": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_017"
+  },
+  "A213": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_031"
+  },
+  "A214": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_024"
+  },
+  "A215": {
+   "arm": "steering",
+   "prompt_id": "sv_test_011"
+  },
+  "A216": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_015"
+  },
+  "A217": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_028"
+  },
+  "A218": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_021"
+  },
+  "A219": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_023"
+  },
+  "A220": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_021"
+  },
+  "A221": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_017"
+  },
+  "A222": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_027"
+  },
+  "A223": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_031"
+  },
+  "A224": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_022"
+  },
+  "A225": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_009"
+  },
+  "A226": {
+   "arm": "reppen",
+   "prompt_id": "sv_test_014"
+  },
+  "A227": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_009"
+  },
+  "A228": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_014"
+  },
+  "A229": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_029"
+  },
+  "A230": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_013"
+  },
+  "A231": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_024"
+  },
+  "A232": {
+   "arm": "random_edit",
+   "prompt_id": "sv_test_017"
+  },
+  "A233": {
+   "arm": "steering",
+   "prompt_id": "sv_test_010"
+  },
+  "A234": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_018"
+  },
+  "A235": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_012"
+  },
+  "A236": {
+   "arm": "sv_system_prompt",
+   "prompt_id": "sv_test_006"
+  },
+  "A237": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_021"
+  },
+  "A238": {
+   "arm": "baseline",
+   "prompt_id": "sv_test_038"
+  },
+  "A239": {
+   "arm": "loop_edit",
+   "prompt_id": "sv_test_002"
+  },
+  "B000": {
+   "lang": "en",
+   "pair": 19
+  },
+  "B001": {
+   "lang": "sv",
+   "pair": 17
+  },
+  "B002": {
+   "lang": "en",
+   "pair": 27
+  },
+  "B003": {
+   "lang": "sv",
+   "pair": 19
+  },
+  "B004": {
+   "lang": "sv",
+   "pair": 1
+  },
+  "B005": {
+   "lang": "sv",
+   "pair": 40
+  },
+  "B006": {
+   "lang": "sv",
+   "pair": 3
+  },
+  "B007": {
+   "lang": "en",
+   "pair": 15
+  },
+  "B008": {
+   "lang": "sv",
+   "pair": 18
+  },
+  "B009": {
+   "lang": "en",
+   "pair": 24
+  },
+  "B010": {
+   "lang": "en",
+   "pair": 29
+  },
+  "B011": {
+   "lang": "en",
+   "pair": 35
+  },
+  "B012": {
+   "lang": "sv",
+   "pair": 7
+  },
+  "B013": {
+   "lang": "sv",
+   "pair": 9
+  },
+  "B014": {
+   "lang": "en",
+   "pair": 47
+  },
+  "B015": {
+   "lang": "sv",
+   "pair": 35
+  },
+  "B016": {
+   "lang": "sv",
+   "pair": 16
+  },
+  "B017": {
+   "lang": "sv",
+   "pair": 8
+  },
+  "B018": {
+   "lang": "en",
+   "pair": 46
+  },
+  "B019": {
+   "lang": "sv",
+   "pair": 10
+  },
+  "B020": {
+   "lang": "sv",
+   "pair": 42
+  },
+  "B021": {
+   "lang": "sv",
+   "pair": 26
+  },
+  "B022": {
+   "lang": "en",
+   "pair": 11
+  },
+  "B023": {
+   "lang": "en",
+   "pair": 8
+  },
+  "B024": {
+   "lang": "sv",
+   "pair": 2
+  },
+  "B025": {
+   "lang": "en",
+   "pair": 36
+  },
+  "B026": {
+   "lang": "en",
+   "pair": 42
+  },
+  "B027": {
+   "lang": "en",
+   "pair": 7
+  },
+  "B028": {
+   "lang": "en",
+   "pair": 23
+  },
+  "B029": {
+   "lang": "en",
+   "pair": 32
+  },
+  "B030": {
+   "lang": "en",
+   "pair": 9
+  },
+  "B031": {
+   "lang": "en",
+   "pair": 45
+  },
+  "B032": {
+   "lang": "sv",
+   "pair": 37
+  },
+  "B033": {
+   "lang": "en",
+   "pair": 4
+  },
+  "B034": {
+   "lang": "en",
+   "pair": 0
+  },
+  "B035": {
+   "lang": "sv",
+   "pair": 4
+  },
+  "B036": {
+   "lang": "en",
+   "pair": 18
+  },
+  "B037": {
+   "lang": "sv",
+   "pair": 36
+  },
+  "B038": {
+   "lang": "sv",
+   "pair": 27
+  },
+  "B039": {
+   "lang": "en",
+   "pair": 37
+  },
+  "B040": {
+   "lang": "sv",
+   "pair": 48
+  },
+  "B041": {
+   "lang": "en",
+   "pair": 33
+  },
+  "B042": {
+   "lang": "sv",
+   "pair": 28
+  },
+  "B043": {
+   "lang": "en",
+   "pair": 10
+  },
+  "B044": {
+   "lang": "sv",
+   "pair": 20
+  },
+  "B045": {
+   "lang": "en",
+   "pair": 13
+  },
+  "B046": {
+   "lang": "en",
+   "pair": 5
+  },
+  "B047": {
+   "lang": "sv",
+   "pair": 31
+  },
+  "B048": {
+   "lang": "sv",
+   "pair": 6
+  },
+  "B049": {
+   "lang": "sv",
+   "pair": 24
+  },
+  "B050": {
+   "lang": "en",
+   "pair": 41
+  },
+  "B051": {
+   "lang": "sv",
+   "pair": 25
+  },
+  "B052": {
+   "lang": "en",
+   "pair": 38
+  },
+  "B053": {
+   "lang": "en",
+   "pair": 3
+  },
+  "B054": {
+   "lang": "sv",
+   "pair": 47
+  },
+  "B055": {
+   "lang": "en",
+   "pair": 26
+  },
+  "B056": {
+   "lang": "en",
+   "pair": 2
+  },
+  "B057": {
+   "lang": "en",
+   "pair": 48
+  },
+  "B058": {
+   "lang": "sv",
+   "pair": 44
+  },
+  "B059": {
+   "lang": "sv",
+   "pair": 11
+  },
+  "B060": {
+   "lang": "en",
+   "pair": 20
+  },
+  "B061": {
+   "lang": "sv",
+   "pair": 29
+  },
+  "B062": {
+   "lang": "en",
+   "pair": 44
+  },
+  "B063": {
+   "lang": "sv",
+   "pair": 0
+  },
+  "B064": {
+   "lang": "en",
+   "pair": 30
+  },
+  "B065": {
+   "lang": "sv",
+   "pair": 13
+  },
+  "B066": {
+   "lang": "en",
+   "pair": 21
+  },
+  "B067": {
+   "lang": "sv",
+   "pair": 43
+  },
+  "B068": {
+   "lang": "en",
+   "pair": 39
+  },
+  "B069": {
+   "lang": "en",
+   "pair": 43
+  },
+  "B070": {
+   "lang": "en",
+   "pair": 6
+  },
+  "B071": {
+   "lang": "sv",
+   "pair": 46
+  },
+  "B072": {
+   "lang": "sv",
+   "pair": 5
+  },
+  "B073": {
+   "lang": "sv",
+   "pair": 23
+  },
+  "B074": {
+   "lang": "sv",
+   "pair": 38
+  },
+  "B075": {
+   "lang": "en",
+   "pair": 28
+  },
+  "B076": {
+   "lang": "sv",
+   "pair": 22
+  },
+  "B077": {
+   "lang": "sv",
+   "pair": 45
+  },
+  "B078": {
+   "lang": "en",
+   "pair": 16
+  },
+  "B079": {
+   "lang": "sv",
+   "pair": 30
+  },
+  "B080": {
+   "lang": "en",
+   "pair": 17
+  },
+  "B081": {
+   "lang": "sv",
+   "pair": 41
+  },
+  "B082": {
+   "lang": "en",
+   "pair": 1
+  },
+  "B083": {
+   "lang": "en",
+   "pair": 22
+  },
+  "B084": {
+   "lang": "en",
+   "pair": 31
+  },
+  "B085": {
+   "lang": "sv",
+   "pair": 33
+  },
+  "B086": {
+   "lang": "en",
+   "pair": 12
+  },
+  "B087": {
+   "lang": "en",
+   "pair": 14
+  },
+  "B088": {
+   "lang": "en",
+   "pair": 25
+  },
+  "B089": {
+   "lang": "sv",
+   "pair": 15
+  },
+  "B090": {
+   "lang": "sv",
+   "pair": 12
+  },
+  "B091": {
+   "lang": "sv",
+   "pair": 39
+  },
+  "B092": {
+   "lang": "en",
+   "pair": 49
+  },
+  "B093": {
+   "lang": "en",
+   "pair": 40
+  },
+  "B094": {
+   "lang": "sv",
+   "pair": 21
+  },
+  "B095": {
+   "lang": "sv",
+   "pair": 32
+  },
+  "B096": {
+   "lang": "en",
+   "pair": 34
+  },
+  "B097": {
+   "lang": "sv",
+   "pair": 34
+  },
+  "B098": {
+   "lang": "sv",
+   "pair": 14
+  },
+  "B099": {
+   "lang": "sv",
+   "pair": 49
+  },
+  "C000": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_019"
+  },
+  "C001": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_028"
+  },
+  "C002": {
+   "repeat_of": "A047"
+  },
+  "C003": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_022"
+  },
+  "C004": {
+   "repeat_of": "A203"
+  },
+  "C005": {
+   "repeat_of": "A115"
+  },
+  "C006": {
+   "repeat_of": "A077"
+  },
+  "C007": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_011"
+  },
+  "C008": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_015"
+  },
+  "C009": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_033"
+  },
+  "C010": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_023"
+  },
+  "C011": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_012"
+  },
+  "C012": {
+   "repeat_of": "A161"
+  },
+  "C013": {
+   "repeat_of": "A205"
+  },
+  "C014": {
+   "repeat_of": "A010"
+  },
+  "C015": {
+   "repeat_of": "A189"
+  },
+  "C016": {
+   "repeat_of": "A003"
+  },
+  "C017": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_031"
+  },
+  "C018": {
+   "repeat_of": "A130"
+  },
+  "C019": {
+   "repeat_of": "A162"
+  },
+  "C020": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_039"
+  },
+  "C021": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_027"
+  },
+  "C022": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_009"
+  },
+  "C023": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_002"
+  },
+  "C024": {
+   "repeat_of": "A137"
+  },
+  "C025": {
+   "repeat_of": "A135"
+  },
+  "C026": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_021"
+  },
+  "C027": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_034"
+  },
+  "C028": {
+   "repeat_of": "A199"
+  },
+  "C029": {
+   "repeat_of": "A121"
+  },
+  "C030": {
+   "repeat_of": "A219"
+  },
+  "C031": {
+   "repeat_of": "A036"
+  },
+  "C032": {
+   "repeat_of": "A114"
+  },
+  "C033": {
+   "repeat_of": "A233"
+  },
+  "C034": {
+   "repeat_of": "A143"
+  },
+  "C035": {
+   "repeat_of": "A166"
+  },
+  "C036": {
+   "repeat_of": "A223"
+  },
+  "C037": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_038"
+  },
+  "C038": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_013"
+  },
+  "C039": {
+   "repeat_of": "A207"
+  },
+  "C040": {
+   "repeat_of": "A150"
+  },
+  "C041": {
+   "repeat_of": "A152"
+  },
+  "C042": {
+   "repeat_of": "A040"
+  },
+  "C043": {
+   "repeat_of": "A048"
+  },
+  "C044": {
+   "repeat_of": "A239"
+  },
+  "C045": {
+   "repeat_of": "A101"
+  },
+  "C046": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_006"
+  },
+  "C047": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_036"
+  },
+  "C048": {
+   "repeat_of": "A159"
+  },
+  "C049": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_001"
+  },
+  "C050": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_018"
+  },
+  "C051": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_032"
+  },
+  "C052": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_014"
+  },
+  "C053": {
+   "repeat_of": "A218"
+  },
+  "C054": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_020"
+  },
+  "C055": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_016"
+  },
+  "C056": {
+   "repeat_of": "A119"
+  },
+  "C057": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_005"
+  },
+  "C058": {
+   "repeat_of": "A131"
+  },
+  "C059": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_035"
+  },
+  "C060": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_026"
+  },
+  "C061": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_017"
+  },
+  "C062": {
+   "repeat_of": "A167"
+  },
+  "C063": {
+   "repeat_of": "A228"
+  },
+  "C064": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_010"
+  },
+  "C065": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_000"
+  },
+  "C066": {
+   "repeat_of": "A023"
+  },
+  "C067": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_037"
+  },
+  "C068": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_029"
+  },
+  "C069": {
+   "repeat_of": "A177"
+  },
+  "C070": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_025"
+  },
+  "C071": {
+   "repeat_of": "A157"
+  },
+  "C072": {
+   "repeat_of": "A221"
+  },
+  "C073": {
+   "repeat_of": "A024"
+  },
+  "C074": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_003"
+  },
+  "C075": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_030"
+  },
+  "C076": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_024"
+  },
+  "C077": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_004"
+  },
+  "C078": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_007"
+  },
+  "C079": {
+   "arm": "qwen_sampling",
+   "prompt_id": "sv_test_008"
+  },
+  "D000": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_004"
+  },
+  "D001": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_009"
+  },
+  "D002": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_009"
+  },
+  "D003": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_012"
+  },
+  "D004": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_028"
+  },
+  "D005": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_036"
+  },
+  "D006": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_019"
+  },
+  "D007": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_038"
+  },
+  "D008": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_022"
+  },
+  "D009": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_036"
+  },
+  "D010": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_033"
+  },
+  "D011": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_003"
+  },
+  "D012": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_009"
+  },
+  "D013": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_039"
+  },
+  "D014": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_016"
+  },
+  "D015": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_034"
+  },
+  "D016": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_022"
+  },
+  "D017": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_011"
+  },
+  "D018": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_030"
+  },
+  "D019": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_033"
+  },
+  "D020": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_021"
+  },
+  "D021": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_013"
+  },
+  "D022": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_028"
+  },
+  "D023": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_032"
+  },
+  "D024": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_024"
+  },
+  "D025": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_030"
+  },
+  "D026": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_013"
+  },
+  "D027": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_018"
+  },
+  "D028": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_030"
+  },
+  "D029": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_014"
+  },
+  "D030": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_032"
+  },
+  "D031": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_025"
+  },
+  "D032": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_003"
+  },
+  "D033": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_022"
+  },
+  "D034": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_039"
+  },
+  "D035": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_021"
+  },
+  "D036": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_006"
+  },
+  "D037": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_035"
+  },
+  "D038": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_039"
+  },
+  "D039": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_024"
+  },
+  "D040": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_005"
+  },
+  "D041": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_020"
+  },
+  "D042": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_000"
+  },
+  "D043": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_011"
+  },
+  "D044": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_024"
+  },
+  "D045": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_019"
+  },
+  "D046": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_013"
+  },
+  "D047": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_016"
+  },
+  "D048": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_013"
+  },
+  "D049": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_019"
+  },
+  "D050": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_010"
+  },
+  "D051": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_000"
+  },
+  "D052": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_031"
+  },
+  "D053": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_010"
+  },
+  "D054": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_026"
+  },
+  "D055": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_034"
+  },
+  "D056": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_032"
+  },
+  "D057": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_039"
+  },
+  "D058": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_008"
+  },
+  "D059": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_033"
+  },
+  "D060": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_032"
+  },
+  "D061": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_018"
+  },
+  "D062": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_017"
+  },
+  "D063": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_000"
+  },
+  "D064": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_000"
+  },
+  "D065": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_030"
+  },
+  "D066": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_010"
+  },
+  "D067": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_004"
+  },
+  "D068": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_032"
+  },
+  "D069": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_011"
+  },
+  "D070": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_002"
+  },
+  "D071": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_002"
+  },
+  "D072": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_015"
+  },
+  "D073": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_038"
+  },
+  "D074": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_004"
+  },
+  "D075": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_021"
+  },
+  "D076": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_007"
+  },
+  "D077": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_029"
+  },
+  "D078": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_017"
+  },
+  "D079": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_002"
+  },
+  "D080": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_015"
+  },
+  "D081": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_003"
+  },
+  "D082": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_024"
+  },
+  "D083": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_021"
+  },
+  "D084": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_039"
+  },
+  "D085": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_028"
+  },
+  "D086": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_010"
+  },
+  "D087": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_000"
+  },
+  "D088": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_008"
+  },
+  "D089": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_034"
+  },
+  "D090": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_034"
+  },
+  "D091": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_038"
+  },
+  "D092": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_018"
+  },
+  "D093": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_038"
+  },
+  "D094": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_031"
+  },
+  "D095": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_004"
+  },
+  "D096": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_029"
+  },
+  "D097": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_005"
+  },
+  "D098": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_016"
+  },
+  "D099": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_008"
+  },
+  "D100": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_006"
+  },
+  "D101": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_008"
+  },
+  "D102": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_001"
+  },
+  "D103": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_017"
+  },
+  "D104": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_023"
+  },
+  "D105": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_012"
+  },
+  "D106": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_005"
+  },
+  "D107": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_013"
+  },
+  "D108": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_025"
+  },
+  "D109": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_000"
+  },
+  "D110": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_017"
+  },
+  "D111": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_031"
+  },
+  "D112": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_006"
+  },
+  "D113": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_032"
+  },
+  "D114": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_025"
+  },
+  "D115": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_033"
+  },
+  "D116": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_029"
+  },
+  "D117": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_029"
+  },
+  "D118": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_000"
+  },
+  "D119": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_016"
+  },
+  "D120": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_011"
+  },
+  "D121": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_030"
+  },
+  "D122": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_006"
+  },
+  "D123": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_002"
+  },
+  "D124": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_019"
+  },
+  "D125": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_039"
+  },
+  "D126": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_014"
+  },
+  "D127": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_014"
+  },
+  "D128": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_037"
+  },
+  "D129": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_035"
+  },
+  "D130": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_005"
+  },
+  "D131": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_017"
+  },
+  "D132": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_034"
+  },
+  "D133": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_031"
+  },
+  "D134": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_025"
+  },
+  "D135": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_014"
+  },
+  "D136": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_027"
+  },
+  "D137": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_017"
+  },
+  "D138": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_019"
+  },
+  "D139": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_001"
+  },
+  "D140": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_026"
+  },
+  "D141": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_004"
+  },
+  "D142": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_037"
+  },
+  "D143": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_009"
+  },
+  "D144": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_023"
+  },
+  "D145": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_001"
+  },
+  "D146": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_034"
+  },
+  "D147": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_020"
+  },
+  "D148": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_036"
+  },
+  "D149": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_004"
+  },
+  "D150": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_033"
+  },
+  "D151": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_007"
+  },
+  "D152": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_015"
+  },
+  "D153": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_017"
+  },
+  "D154": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_022"
+  },
+  "D155": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_014"
+  },
+  "D156": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_019"
+  },
+  "D157": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_028"
+  },
+  "D158": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_014"
+  },
+  "D159": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_005"
+  },
+  "D160": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_005"
+  },
+  "D161": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_004"
+  },
+  "D162": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_032"
+  },
+  "D163": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_002"
+  },
+  "D164": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_030"
+  },
+  "D165": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_031"
+  },
+  "D166": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_015"
+  },
+  "D167": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_009"
+  },
+  "D168": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_020"
+  },
+  "D169": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_007"
+  },
+  "D170": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_004"
+  },
+  "D171": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_026"
+  },
+  "D172": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_012"
+  },
+  "D173": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_022"
+  },
+  "D174": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_036"
+  },
+  "D175": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_039"
+  },
+  "D176": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_016"
+  },
+  "D177": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_002"
+  },
+  "D178": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_001"
+  },
+  "D179": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_029"
+  },
+  "D180": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_027"
+  },
+  "D181": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_000"
+  },
+  "D182": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_027"
+  },
+  "D183": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_020"
+  },
+  "D184": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_024"
+  },
+  "D185": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_018"
+  },
+  "D186": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_014"
+  },
+  "D187": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_023"
+  },
+  "D188": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_006"
+  },
+  "D189": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_020"
+  },
+  "D190": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_014"
+  },
+  "D191": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_022"
+  },
+  "D192": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_023"
+  },
+  "D193": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_005"
+  },
+  "D194": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_026"
+  },
+  "D195": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_015"
+  },
+  "D196": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_035"
+  },
+  "D197": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_035"
+  },
+  "D198": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_001"
+  },
+  "D199": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_026"
+  },
+  "D200": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_027"
+  },
+  "D201": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_038"
+  },
+  "D202": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_013"
+  },
+  "D203": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_007"
+  },
+  "D204": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_003"
+  },
+  "D205": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_036"
+  },
+  "D206": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_037"
+  },
+  "D207": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_004"
+  },
+  "D208": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_024"
+  },
+  "D209": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_028"
+  },
+  "D210": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_006"
+  },
+  "D211": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_037"
+  },
+  "D212": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_034"
+  },
+  "D213": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_030"
+  },
+  "D214": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_003"
+  },
+  "D215": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_012"
+  },
+  "D216": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_021"
+  },
+  "D217": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_028"
+  },
+  "D218": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_011"
+  },
+  "D219": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_007"
+  },
+  "D220": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_009"
+  },
+  "D221": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_035"
+  },
+  "D222": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_034"
+  },
+  "D223": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_035"
+  },
+  "D224": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_026"
+  },
+  "D225": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_039"
+  },
+  "D226": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_007"
+  },
+  "D227": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_035"
+  },
+  "D228": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_025"
+  },
+  "D229": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_003"
+  },
+  "D230": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_033"
+  },
+  "D231": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_027"
+  },
+  "D232": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_025"
+  },
+  "D233": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_024"
+  },
+  "D234": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_002"
+  },
+  "D235": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_008"
+  },
+  "D236": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_036"
+  },
+  "D237": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_019"
+  },
+  "D238": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_016"
+  },
+  "D239": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_006"
+  },
+  "D240": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_006"
+  },
+  "D241": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_015"
+  },
+  "D242": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_022"
+  },
+  "D243": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_026"
+  },
+  "D244": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_023"
+  },
+  "D245": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_016"
+  },
+  "D246": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_035"
+  },
+  "D247": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_003"
+  },
+  "D248": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_037"
+  },
+  "D249": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_038"
+  },
+  "D250": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_019"
+  },
+  "D251": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_009"
+  },
+  "D252": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_020"
+  },
+  "D253": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_039"
+  },
+  "D254": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_027"
+  },
+  "D255": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_038"
+  },
+  "D256": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_010"
+  },
+  "D257": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_029"
+  },
+  "D258": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_011"
+  },
+  "D259": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_033"
+  },
+  "D260": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_037"
+  },
+  "D261": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_017"
+  },
+  "D262": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_007"
+  },
+  "D263": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_027"
+  },
+  "D264": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_012"
+  },
+  "D265": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_025"
+  },
+  "D266": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_006"
+  },
+  "D267": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_035"
+  },
+  "D268": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_031"
+  },
+  "D269": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_011"
+  },
+  "D270": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_001"
+  },
+  "D271": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_013"
+  },
+  "D272": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_028"
+  },
+  "D273": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_017"
+  },
+  "D274": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_030"
+  },
+  "D275": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_005"
+  },
+  "D276": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_036"
+  },
+  "D277": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_011"
+  },
+  "D278": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_032"
+  },
+  "D279": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_008"
+  },
+  "D280": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_001"
+  },
+  "D281": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_012"
+  },
+  "D282": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_021"
+  },
+  "D283": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_021"
+  },
+  "D284": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_036"
+  },
+  "D285": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_012"
+  },
+  "D286": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_031"
+  },
+  "D287": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_001"
+  },
+  "D288": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_023"
+  },
+  "D289": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_036"
+  },
+  "D290": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_037"
+  },
+  "D291": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_027"
+  },
+  "D292": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_029"
+  },
+  "D293": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_015"
+  },
+  "D294": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_009"
+  },
+  "D295": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_023"
+  },
+  "D296": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_038"
+  },
+  "D297": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_021"
+  },
+  "D298": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_010"
+  },
+  "D299": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_019"
+  },
+  "D300": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_018"
+  },
+  "D301": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_010"
+  },
+  "D302": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_038"
+  },
+  "D303": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_018"
+  },
+  "D304": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_018"
+  },
+  "D305": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_020"
+  },
+  "D306": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_026"
+  },
+  "D307": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_005"
+  },
+  "D308": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_033"
+  },
+  "D309": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_011"
+  },
+  "D310": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_013"
+  },
+  "D311": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_003"
+  },
+  "D312": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_029"
+  },
+  "D313": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_022"
+  },
+  "D314": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_007"
+  },
+  "D315": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_010"
+  },
+  "D316": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_002"
+  },
+  "D317": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_020"
+  },
+  "D318": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_013"
+  },
+  "D319": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_000"
+  },
+  "D320": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_024"
+  },
+  "D321": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_012"
+  },
+  "D322": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_008"
+  },
+  "D323": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_009"
+  },
+  "D324": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_025"
+  },
+  "D325": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_030"
+  },
+  "D326": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_024"
+  },
+  "D327": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_008"
+  },
+  "D328": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_028"
+  },
+  "D329": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_021"
+  },
+  "D330": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_018"
+  },
+  "D331": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_025"
+  },
+  "D332": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_029"
+  },
+  "D333": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_031"
+  },
+  "D334": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_020"
+  },
+  "D335": {
+   "arm2": "qwen_sampling",
+   "prompt_id": "sv_test_001"
+  },
+  "D336": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_022"
+  },
+  "D337": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_010"
+  },
+  "D338": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_015"
+  },
+  "D339": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_015"
+  },
+  "D340": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_003"
+  },
+  "D341": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_014"
+  },
+  "D342": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_012"
+  },
+  "D343": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_032"
+  },
+  "D344": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_037"
+  },
+  "D345": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_033"
+  },
+  "D346": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_007"
+  },
+  "D347": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_027"
+  },
+  "D348": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_016"
+  },
+  "D349": {
+   "arm2": "loop_edit_s1",
+   "prompt_id": "sv_test_018"
+  },
+  "D350": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_026"
+  },
+  "D351": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_023"
+  },
+  "D352": {
+   "arm2": "reppen",
+   "prompt_id": "sv_test_031"
+  },
+  "D353": {
+   "arm2": "random_edit_normmatched_s2",
+   "prompt_id": "sv_test_034"
+  },
+  "D354": {
+   "arm2": "sv_system_prompt",
+   "prompt_id": "sv_test_016"
+  },
+  "D355": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_037"
+  },
+  "D356": {
+   "arm2": "steering",
+   "prompt_id": "sv_test_023"
+  },
+  "D357": {
+   "arm2": "baseline",
+   "prompt_id": "sv_test_008"
+  },
+  "D358": {
+   "arm2": "loop_edit",
+   "prompt_id": "sv_test_002"
+  },
+  "D359": {
+   "arm2": "random_edit_normmatched",
+   "prompt_id": "sv_test_028"
+  },
+  "E000": {
+   "lang2": "en",
+   "pair": 45
+  },
+  "E001": {
+   "lang2": "sv",
+   "pair": 28
+  },
+  "E002": {
+   "lang2": "sv",
+   "pair": 12
+  },
+  "E003": {
+   "lang2": "sv",
+   "pair": 38
+  },
+  "E004": {
+   "lang2": "sv",
+   "pair": 3
+  },
+  "E005": {
+   "lang2": "sv",
+   "pair": 33
+  },
+  "E006": {
+   "lang2": "en",
+   "pair": 6
+  },
+  "E007": {
+   "lang2": "en",
+   "pair": 42
+  },
+  "E008": {
+   "lang2": "sv",
+   "pair": 29
+  },
+  "E009": {
+   "lang2": "sv",
+   "pair": 46
+  },
+  "E010": {
+   "lang2": "sv",
+   "pair": 24
+  },
+  "E011": {
+   "lang2": "sv",
+   "pair": 40
+  },
+  "E012": {
+   "lang2": "en",
+   "pair": 28
+  },
+  "E013": {
+   "lang2": "sv",
+   "pair": 10
+  },
+  "E014": {
+   "lang2": "sv",
+   "pair": 11
+  },
+  "E015": {
+   "lang2": "en",
+   "pair": 1
+  },
+  "E016": {
+   "lang2": "en",
+   "pair": 26
+  },
+  "E017": {
+   "lang2": "sv",
+   "pair": 23
+  },
+  "E018": {
+   "lang2": "en",
+   "pair": 2
+  },
+  "E019": {
+   "lang2": "en",
+   "pair": 11
+  },
+  "E020": {
+   "lang2": "en",
+   "pair": 40
+  },
+  "E021": {
+   "lang2": "sv",
+   "pair": 22
+  },
+  "E022": {
+   "lang2": "en",
+   "pair": 37
+  },
+  "E023": {
+   "lang2": "sv",
+   "pair": 6
+  },
+  "E024": {
+   "lang2": "en",
+   "pair": 44
+  },
+  "E025": {
+   "lang2": "en",
+   "pair": 17
+  },
+  "E026": {
+   "lang2": "sv",
+   "pair": 20
+  },
+  "E027": {
+   "lang2": "sv",
+   "pair": 13
+  },
+  "E028": {
+   "lang2": "en",
+   "pair": 23
+  },
+  "E029": {
+   "lang2": "en",
+   "pair": 12
+  },
+  "E030": {
+   "lang2": "sv",
+   "pair": 43
+  },
+  "E031": {
+   "lang2": "en",
+   "pair": 13
+  },
+  "E032": {
+   "lang2": "en",
+   "pair": 47
+  },
+  "E033": {
+   "lang2": "sv",
+   "pair": 30
+  },
+  "E034": {
+   "lang2": "en",
+   "pair": 18
+  },
+  "E035": {
+   "lang2": "en",
+   "pair": 41
+  },
+  "E036": {
+   "lang2": "sv",
+   "pair": 5
+  },
+  "E037": {
+   "lang2": "sv",
+   "pair": 37
+  },
+  "E038": {
+   "lang2": "sv",
+   "pair": 41
+  },
+  "E039": {
+   "lang2": "sv",
+   "pair": 16
+  },
+  "E040": {
+   "lang2": "sv",
+   "pair": 19
+  },
+  "E041": {
+   "lang2": "en",
+   "pair": 39
+  },
+  "E042": {
+   "lang2": "en",
+   "pair": 36
+  },
+  "E043": {
+   "lang2": "en",
+   "pair": 24
+  },
+  "E044": {
+   "lang2": "en",
+   "pair": 14
+  },
+  "E045": {
+   "lang2": "en",
+   "pair": 38
+  },
+  "E046": {
+   "lang2": "sv",
+   "pair": 9
+  },
+  "E047": {
+   "lang2": "sv",
+   "pair": 35
+  },
+  "E048": {
+   "lang2": "sv",
+   "pair": 36
+  },
+  "E049": {
+   "lang2": "sv",
+   "pair": 42
+  },
+  "E050": {
+   "lang2": "sv",
+   "pair": 14
+  },
+  "E051": {
+   "lang2": "sv",
+   "pair": 1
+  },
+  "E052": {
+   "lang2": "sv",
+   "pair": 47
+  },
+  "E053": {
+   "lang2": "en",
+   "pair": 33
+  },
+  "E054": {
+   "lang2": "en",
+   "pair": 22
+  },
+  "E055": {
+   "lang2": "en",
+   "pair": 7
+  },
+  "E056": {
+   "lang2": "en",
+   "pair": 43
+  },
+  "E057": {
+   "lang2": "en",
+   "pair": 49
+  },
+  "E058": {
+   "lang2": "sv",
+   "pair": 31
+  },
+  "E059": {
+   "lang2": "sv",
+   "pair": 27
+  },
+  "E060": {
+   "lang2": "en",
+   "pair": 21
+  },
+  "E061": {
+   "lang2": "sv",
+   "pair": 45
+  },
+  "E062": {
+   "lang2": "sv",
+   "pair": 17
+  },
+  "E063": {
+   "lang2": "en",
+   "pair": 20
+  },
+  "E064": {
+   "lang2": "en",
+   "pair": 35
+  },
+  "E065": {
+   "lang2": "sv",
+   "pair": 25
+  },
+  "E066": {
+   "lang2": "sv",
+   "pair": 26
+  },
+  "E067": {
+   "lang2": "en",
+   "pair": 16
+  },
+  "E068": {
+   "lang2": "sv",
+   "pair": 2
+  },
+  "E069": {
+   "lang2": "en",
+   "pair": 29
+  },
+  "E070": {
+   "lang2": "sv",
+   "pair": 39
+  },
+  "E071": {
+   "lang2": "en",
+   "pair": 32
+  },
+  "E072": {
+   "lang2": "en",
+   "pair": 10
+  },
+  "E073": {
+   "lang2": "en",
+   "pair": 4
+  },
+  "E074": {
+   "lang2": "en",
+   "pair": 30
+  },
+  "E075": {
+   "lang2": "sv",
+   "pair": 15
+  },
+  "E076": {
+   "lang2": "en",
+   "pair": 19
+  },
+  "E077": {
+   "lang2": "en",
+   "pair": 9
+  },
+  "E078": {
+   "lang2": "en",
+   "pair": 15
+  },
+  "E079": {
+   "lang2": "en",
+   "pair": 25
+  },
+  "E080": {
+   "lang2": "en",
+   "pair": 46
+  },
+  "E081": {
+   "lang2": "en",
+   "pair": 27
+  },
+  "E082": {
+   "lang2": "sv",
+   "pair": 18
+  },
+  "E083": {
+   "lang2": "sv",
+   "pair": 21
+  },
+  "E084": {
+   "lang2": "sv",
+   "pair": 34
+  },
+  "E085": {
+   "lang2": "sv",
+   "pair": 44
+  },
+  "E086": {
+   "lang2": "sv",
+   "pair": 49
+  },
+  "E087": {
+   "lang2": "en",
+   "pair": 3
+  },
+  "E088": {
+   "lang2": "sv",
+   "pair": 4
+  },
+  "E089": {
+   "lang2": "sv",
+   "pair": 7
+  },
+  "E090": {
+   "lang2": "sv",
+   "pair": 32
+  },
+  "E091": {
+   "lang2": "sv",
+   "pair": 48
+  },
+  "E092": {
+   "lang2": "en",
+   "pair": 31
+  },
+  "E093": {
+   "lang2": "en",
+   "pair": 0
+  },
+  "E094": {
+   "lang2": "sv",
+   "pair": 0
+  },
+  "E095": {
+   "lang2": "en",
+   "pair": 8
+  },
+  "E096": {
+   "lang2": "sv",
+   "pair": 8
+  },
+  "E097": {
+   "lang2": "en",
+   "pair": 5
+  },
+  "E098": {
+   "lang2": "en",
+   "pair": 48
+  },
+  "E099": {
+   "lang2": "en",
+   "pair": 34
+  },
+  "F000": {
+   "lang3": "en",
+   "pair": 6
+  },
+  "F001": {
+   "lang3": "en",
+   "pair": 11
+  },
+  "F002": {
+   "lang3": "en",
+   "pair": 35
+  },
+  "F003": {
+   "lang3": "en",
+   "pair": 48
+  },
+  "F004": {
+   "lang3": "en",
+   "pair": 5
+  },
+  "F005": {
+   "lang3": "en",
+   "pair": 20
+  },
+  "F006": {
+   "lang3": "sv",
+   "pair": 34
+  },
+  "F007": {
+   "lang3": "en",
+   "pair": 36
+  },
+  "F008": {
+   "lang3": "sv",
+   "pair": 49
+  },
+  "F009": {
+   "lang3": "sv",
+   "pair": 48
+  },
+  "F010": {
+   "lang3": "sv",
+   "pair": 45
+  },
+  "F011": {
+   "lang3": "sv",
+   "pair": 36
+  },
+  "F012": {
+   "lang3": "en",
+   "pair": 32
+  },
+  "F013": {
+   "lang3": "sv",
+   "pair": 0
+  },
+  "F014": {
+   "lang3": "en",
+   "pair": 4
+  },
+  "F015": {
+   "lang3": "en",
+   "pair": 12
+  },
+  "F016": {
+   "lang3": "en",
+   "pair": 9
+  },
+  "F017": {
+   "lang3": "en",
+   "pair": 15
+  },
+  "F018": {
+   "lang3": "sv",
+   "pair": 19
+  },
+  "F019": {
+   "lang3": "en",
+   "pair": 33
+  },
+  "F020": {
+   "lang3": "sv",
+   "pair": 47
+  },
+  "F021": {
+   "lang3": "en",
+   "pair": 22
+  },
+  "F022": {
+   "lang3": "en",
+   "pair": 30
+  },
+  "F023": {
+   "lang3": "sv",
+   "pair": 40
+  },
+  "F024": {
+   "lang3": "sv",
+   "pair": 6
+  },
+  "F025": {
+   "lang3": "sv",
+   "pair": 10
+  },
+  "F026": {
+   "lang3": "sv",
+   "pair": 44
+  },
+  "F027": {
+   "lang3": "sv",
+   "pair": 20
+  },
+  "F028": {
+   "lang3": "en",
+   "pair": 24
+  },
+  "F029": {
+   "lang3": "sv",
+   "pair": 39
+  },
+  "F030": {
+   "lang3": "sv",
+   "pair": 32
+  },
+  "F031": {
+   "lang3": "en",
+   "pair": 16
+  },
+  "F032": {
+   "lang3": "en",
+   "pair": 44
+  },
+  "F033": {
+   "lang3": "sv",
+   "pair": 38
+  },
+  "F034": {
+   "lang3": "sv",
+   "pair": 16
+  },
+  "F035": {
+   "lang3": "en",
+   "pair": 23
+  },
+  "F036": {
+   "lang3": "sv",
+   "pair": 30
+  },
+  "F037": {
+   "lang3": "en",
+   "pair": 41
+  },
+  "F038": {
+   "lang3": "sv",
+   "pair": 21
+  },
+  "F039": {
+   "lang3": "sv",
+   "pair": 12
+  },
+  "F040": {
+   "lang3": "sv",
+   "pair": 23
+  },
+  "F041": {
+   "lang3": "en",
+   "pair": 13
+  },
+  "F042": {
+   "lang3": "en",
+   "pair": 21
+  },
+  "F043": {
+   "lang3": "en",
+   "pair": 28
+  },
+  "F044": {
+   "lang3": "sv",
+   "pair": 41
+  },
+  "F045": {
+   "lang3": "sv",
+   "pair": 28
+  },
+  "F046": {
+   "lang3": "sv",
+   "pair": 33
+  },
+  "F047": {
+   "lang3": "en",
+   "pair": 43
+  },
+  "F048": {
+   "lang3": "en",
+   "pair": 49
+  },
+  "F049": {
+   "lang3": "sv",
+   "pair": 24
+  },
+  "F050": {
+   "lang3": "en",
+   "pair": 29
+  },
+  "F051": {
+   "lang3": "sv",
+   "pair": 9
+  },
+  "F052": {
+   "lang3": "sv",
+   "pair": 13
+  },
+  "F053": {
+   "lang3": "sv",
+   "pair": 8
+  },
+  "F054": {
+   "lang3": "sv",
+   "pair": 22
+  },
+  "F055": {
+   "lang3": "en",
+   "pair": 26
+  },
+  "F056": {
+   "lang3": "en",
+   "pair": 3
+  },
+  "F057": {
+   "lang3": "en",
+   "pair": 8
+  },
+  "F058": {
+   "lang3": "sv",
+   "pair": 3
+  },
+  "F059": {
+   "lang3": "sv",
+   "pair": 35
+  },
+  "F060": {
+   "lang3": "en",
+   "pair": 31
+  },
+  "F061": {
+   "lang3": "sv",
+   "pair": 37
+  },
+  "F062": {
+   "lang3": "en",
+   "pair": 14
+  },
+  "F063": {
+   "lang3": "sv",
+   "pair": 27
+  },
+  "F064": {
+   "lang3": "en",
+   "pair": 19
+  },
+  "F065": {
+   "lang3": "sv",
+   "pair": 31
+  },
+  "F066": {
+   "lang3": "sv",
+   "pair": 46
+  },
+  "F067": {
+   "lang3": "en",
+   "pair": 46
+  },
+  "F068": {
+   "lang3": "sv",
+   "pair": 42
+  },
+  "F069": {
+   "lang3": "en",
+   "pair": 27
+  },
+  "F070": {
+   "lang3": "sv",
+   "pair": 25
+  },
+  "F071": {
+   "lang3": "sv",
+   "pair": 43
+  },
+  "F072": {
+   "lang3": "en",
+   "pair": 1
+  },
+  "F073": {
+   "lang3": "sv",
+   "pair": 2
+  },
+  "F074": {
+   "lang3": "sv",
+   "pair": 15
+  },
+  "F075": {
+   "lang3": "sv",
+   "pair": 11
+  },
+  "F076": {
+   "lang3": "en",
+   "pair": 25
+  },
+  "F077": {
+   "lang3": "sv",
+   "pair": 26
+  },
+  "F078": {
+   "lang3": "en",
+   "pair": 2
+  },
+  "F079": {
+   "lang3": "en",
+   "pair": 17
+  },
+  "F080": {
+   "lang3": "en",
+   "pair": 7
+  },
+  "F081": {
+   "lang3": "en",
+   "pair": 40
+  },
+  "F082": {
+   "lang3": "en",
+   "pair": 39
+  },
+  "F083": {
+   "lang3": "en",
+   "pair": 38
+  },
+  "F084": {
+   "lang3": "sv",
+   "pair": 7
+  },
+  "F085": {
+   "lang3": "en",
+   "pair": 34
+  },
+  "F086": {
+   "lang3": "sv",
+   "pair": 4
+  },
+  "F087": {
+   "lang3": "en",
+   "pair": 45
+  },
+  "F088": {
+   "lang3": "en",
+   "pair": 42
+  },
+  "F089": {
+   "lang3": "sv",
+   "pair": 29
+  },
+  "F090": {
+   "lang3": "en",
+   "pair": 18
+  },
+  "F091": {
+   "lang3": "en",
+   "pair": 47
+  },
+  "F092": {
+   "lang3": "sv",
+   "pair": 17
+  },
+  "F093": {
+   "lang3": "sv",
+   "pair": 5
+  },
+  "F094": {
+   "lang3": "en",
+   "pair": 37
+  },
+  "F095": {
+   "lang3": "sv",
+   "pair": 18
+  },
+  "F096": {
+   "lang3": "en",
+   "pair": 0
+  },
+  "F097": {
+   "lang3": "sv",
+   "pair": 14
+  },
+  "F098": {
+   "lang3": "en",
+   "pair": 10
+  },
+  "F099": {
+   "lang3": "sv",
+   "pair": 1
+  }
+ },
+ "arms_A2": {
+  "baseline": "baseline",
+  "loop_edit": "loop_edit[loopedit_L15_s3.0]",
+  "loop_edit_s1": "loop_edit_s1[loopedit_L15_s1.0]",
+  "random_edit_normmatched": "random_edit_normmatched_seed0",
+  "random_edit_normmatched_s2": "random_edit_normmatched_seed2",
+  "sv_system_prompt": "sv_system_prompt",
+  "reppen": "repetition_penalty_1.2",
+  "steering": "steering[steer_L18_b1.0]",
+  "qwen_sampling": "qwen_recommended_sampling"
+ }
+}

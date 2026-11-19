@@ -1,0 +1,30 @@
+{"id": "sv_dev_000", "lang": "sv", "category": "everyday", "prompt": "Hur sparar man pengar på matinköpen?"}
+{"id": "sv_dev_001", "lang": "sv", "category": "everyday", "prompt": "Hur planerar man ett barnkalas för tioåringar?"}
+{"id": "sv_dev_002", "lang": "sv", "category": "facts", "prompt": "Varför är himlen blå?"}
+{"id": "sv_dev_003", "lang": "sv", "category": "facts", "prompt": "Varför flyter is på vatten?"}
+{"id": "sv_dev_004", "lang": "sv", "category": "technical", "prompt": "Vad är molntjänster?"}
+{"id": "sv_dev_005", "lang": "sv", "category": "writing", "prompt": "Formulera en artig påminnelse till en kollega om en försenad rapport."}
+{"id": "sv_dev_006", "lang": "sv", "category": "technical", "prompt": "Förklara vad versionshantering med Git innebär."}
+{"id": "sv_dev_007", "lang": "sv", "category": "facts", "prompt": "Vad orsakar norrsken?"}
+{"id": "sv_dev_008", "lang": "sv", "category": "technical", "prompt": "Vad är skillnaden mellan en processor och ett grafikkort?"}
+{"id": "sv_dev_009", "lang": "sv", "category": "everyday", "prompt": "Föreslå en enkel veckomatsedel för en student."}
+{"id": "sv_dev_010", "lang": "sv", "category": "writing", "prompt": "Skriv ett kort tal till en väns 30-årsdag."}
+{"id": "sv_dev_011", "lang": "sv", "category": "technical", "prompt": "Vad är en Docker-container?"}
+{"id": "sv_dev_012", "lang": "sv", "category": "technical", "prompt": "Vad är skillnaden mellan RAM-minne och hårddisk?"}
+{"id": "sv_dev_013", "lang": "sv", "category": "facts", "prompt": "Hur uppstod Stockholms skärgård?"}
+{"id": "sv_dev_014", "lang": "sv", "category": "writing", "prompt": "Hitta på en gåta och ge svaret."}
+{"id": "sv_dev_015", "lang": "sv", "category": "reasoning", "prompt": "Vad är fördelar och nackdelar med att jobba hemifrån?"}
+{"id": "sv_dev_016", "lang": "sv", "category": "everyday", "prompt": "Vilka är fördelarna med att cykla till jobbet?"}
+{"id": "sv_dev_017", "lang": "sv", "category": "reasoning", "prompt": "Varför kan det vara bra att lära sig ett nytt språk som vuxen?"}
+{"id": "sv_dev_018", "lang": "sv", "category": "reasoning", "prompt": "Ge argument för och emot sommartid."}
+{"id": "sv_dev_019", "lang": "sv", "category": "everyday", "prompt": "Hur tar jag hand om en gjutjärnspanna?"}
+{"id": "sv_dev_020", "lang": "sv", "category": "facts", "prompt": "Vad gör levern i kroppen?"}
+{"id": "sv_dev_021", "lang": "sv", "category": "writing", "prompt": "Skriv ett kort brev till kommunen om en trasig gatlykta."}
+{"id": "sv_dev_022", "lang": "sv", "category": "technical", "prompt": "Hur skapar jag ett starkt lösenord?"}
+{"id": "sv_dev_023", "lang": "sv", "category": "technical", "prompt": "Vad är skillnaden mellan Wi-Fi och 5G?"}
+{"id": "sv_dev_024", "lang": "sv", "category": "facts", "prompt": "Vad innebär offentlighetsprincipen?"}
+{"id": "sv_dev_025", "lang": "sv", "category": "technical", "prompt": "Vad är en databas och varför behövs den?"}
+{"id": "sv_dev_026", "lang": "sv", "category": "writing", "prompt": "Hitta på en kort saga om en räv och en kråka."}
+{"id": "sv_dev_027", "lang": "sv", "category": "facts", "prompt": "Varför fäller lövträd sina löv på hösten?"}
+{"id": "sv_dev_028", "lang": "sv", "category": "writing", "prompt": "Skriv en kort annons för en begagnad soffa."}
+{"id": "sv_dev_029", "lang": "sv", "category": "technical", "prompt": "Hur fungerar kryptering?"}

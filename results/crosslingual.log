@@ -1,0 +1,3 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 18574.17it/s]
+sv mean words 118.8 loop 0.86
+en mean words 163.7 loop 0.72

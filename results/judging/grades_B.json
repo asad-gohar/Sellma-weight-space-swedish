@@ -1,0 +1,502 @@
+[
+ {
+  "item_id": "B000",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B001",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B002",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B003",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B004",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B005",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B006",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B007",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B008",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B009",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B010",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B011",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B012",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B013",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B014",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B015",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B016",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B017",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B018",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B019",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B020",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B021",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B022",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B023",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B024",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B025",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B026",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B027",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B028",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B029",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B030",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B031",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B032",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B033",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B034",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B035",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B036",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B037",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B038",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B039",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B040",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B041",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B042",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B043",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B044",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B045",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B046",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B047",
+  "fluency": 1,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B048",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B049",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B050",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B051",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B052",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B053",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B054",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B055",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B056",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B057",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B058",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B059",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B060",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B061",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B062",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B063",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B064",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B065",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B066",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B067",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B068",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B069",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B070",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B071",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B072",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B073",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B074",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B075",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B076",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B077",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B078",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B079",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B080",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B081",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B082",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B083",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B084",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B085",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B086",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B087",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B088",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B089",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B090",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B091",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B092",
+  "fluency": 2,
+  "adequacy": 1
+ },
+ {
+  "item_id": "B093",
+  "fluency": 2,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B094",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B095",
+  "fluency": 0,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B096",
+  "fluency": 2,
+  "adequacy": 2
+ },
+ {
+  "item_id": "B097",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B098",
+  "fluency": 1,
+  "adequacy": 0
+ },
+ {
+  "item_id": "B099",
+  "fluency": 1,
+  "adequacy": 0
+ }
+]
